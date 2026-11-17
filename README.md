@@ -1,51 +1,34 @@
 # Halo, saya Muhammad Ilham Arzaki 
 
-Mahasiswa Ilmu Komputer yang berfokus pada **Software Engineering**, **Network & Cybersecurity**, dan **Applied Machine Learning**. Berpengalaman membangun aplikasi web, mengonfigurasi infrastruktur jaringan virtual, serta mengolah model analisis data prediktif.
+Mahasiswa Ilmu Komputer yang berfokus pada **Backend & Web Development** serta **Network & Cybersecurity**. Berpengalaman membangun aplikasi web terstruktur dengan Laravel dan mengonfigurasi infrastruktur jaringan virtual.
 
-Saat ini sedang mencari kesempatan **Magang (Internship)** di bidang *Backend Development*, *Full-Stack Web Development*, atau *Network/Security Engineering*.
+Saat ini sedang mencari kesempatan **Magang (Internship)** di bidang *Backend Development*, *Full-Stack Web Development*, atau *Network/System Engineering*.
 
 ---
 
-### 🛠️ Tech Stack & Keahlian Utama
+### 🛠️ Tech Stack
 
-**Bahasa Pemrograman & Web**
-* **Backend & Web:** PHP (Laravel), JavaScript (Node.js), HTML5, CSS3
+* **Backend & Web:** PHP (Laravel), Node.js (Express.js), MySQL, REST API
+* **Network & Security:** MikroTik RouterOS, Ubuntu Server, VirtualBox, WinBox, Kali Linux (Aircrack-ng, Hashcat)
 * **Data & Scripting:** Python (Pandas, Scikit-Learn, Matplotlib), Bash
-* **Database:** MySQL
-
-**Jaringan & Keamanan Siber**
-* **Infrastruktur & Virtualisasi:** MikroTik RouterOS, Ubuntu Server, VirtualBox, WinBox
-* **Security Auditing:** Wireless Penetration Testing (Aircrack-ng suite, Hashcat), Kali Linux, Pengujian Keamanan LLM
-
-**Tools & Lingkungan Kerja**
-* Git, GitHub, Postman (API Testing), XAMPP, VS Code, PyCharm
+* **Tools:** Git, GitHub, Postman, XAMPP, VS Code
 
 ---
 
-### Proyek Unggulan
+### 🚀 Proyek Unggulan
 
-#### 1. [Vapepack — Sistem Manajemen E-Commerce](https://github.com/username-kamu/vapepack)
-Aplikasi web berbasis **Laravel** untuk manajemen inventaris dan katalog produk.
-* **Fitur Utama:** Sistem operasi CRUD penuh, arsitektur antarmuka modular menggunakan *Blade Components*, serta penerapan konfigurasi keamanan *Mass Assignment*.
+#### 1. [Vapepack — Sistem Manajemen Katalog & Inventaris](https://github.com/IKAZARA/vapepack)
+Aplikasi web berbasis **Laravel** untuk pengelolaan data inventaris dan katalog produk.
+* **Highlight Teknis:** Menerapkan arsitektur MVC, operasi CRUD penuh, komponen antarmuka modular (*Blade Components*), validasi sisi server, serta proteksi keamanan *Mass Assignment*.
 * **Tech:** PHP, Laravel, MySQL, Blade.
 
-#### 2. [Crypto Market Volatility & Monitoring Dashboard](https://github.com/username-kamu/crypto-dashboard)
-Sistem pemantauan harga aset kripto secara otomatis yang terintegrasi dengan API publik.
-* **Fitur Utama:** Menarik data *real-time* dari API ticker Indodax, menghitung metrik *price spread* dan persentase rentang volatilitas secara otomatis, serta menyimpannya ke dalam database relasional.
-* **Tech:** PHP, MySQL, REST API.
-
-#### 3. [Komparasi Algoritma Clustering & Klasifikasi Volatilitas Pasar](https://github.com/username-kamu/market-volatility-ml)
-Riset terapan dan pemodelan *machine learning* untuk memetakan pola volatilitas komoditas (Emas, Minyak) dan aset kripto.
-* **Fitur Utama:** Menerapkan metodologi 3 tahap dengan membandingkan algoritma *clustering* (K-Means, DBSCAN, Fuzzy C-Means) dan klasifikasi (Random Forest, SVM, Decision Tree) disertai visualisasi data analitik.
-* **Tech:** Python, Scikit-Learn, Pandas, Matplotlib.
-
-#### 4. [Simulasi Infrastruktur Jaringan Virtual Terintegrasi](https://github.com/username-kamu/mikrotik-ubuntu-lab)
-Dokumentasi dan topologi laboratorium manajemen jaringan berbasis mesin virtual.
-* **Fitur Utama:** Menghubungkan manajemen *routing* menggunakan MikroTik RouterOS dan layanan server pada Ubuntu Server dalam lingkungan terisolasi.
-* **Tech:** MikroTik RouterOS, Ubuntu Server, VirtualBox, WinBox.
+#### 2. [Crypto Market Volatility & Monitoring System](https://github.com/IKAZARA/crypto-volatility)
+Sistem pemantauan dan analisis perilaku pasar aset kripto berbasis **PHP**.
+* **Highlight Teknis:** Mengintegrasikan data *ticker* API pasar secara otomatis untuk menghitung metrik *price spread*, persentase rentang volatilitas, dan ekspor hasil klasterisasi perilaku pasar (`CSV`).
+* **Tech:** PHP, REST API, Data Processing.
 
 ---
 
-###  Kontak & Koneksi
+### Kontak & Koneksi
 * **LinkedIn:** [linkedin.com/in/muhammad-ilham-arzaki-110433329](https://www.linkedin.com/in/muhammad-ilham-arzaki-110433329)
 * **Email:** [ilhamarzaki16@Gmail.com](mailto:ilhamarzaki16@Gmail.com)

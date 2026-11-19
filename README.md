@@ -6,7 +6,7 @@ Saat ini sedang mencari kesempatan **Magang (Internship)** di bidang *Backend De
 
 ---
 
-### 🛠️ Tech Stack
+### Tech Stack
 
 * **Backend & Web:** PHP (Laravel), Node.js (Express.js), MySQL, REST API
 * **Network & Security:** MikroTik RouterOS, Ubuntu Server, VirtualBox, WinBox, Kali Linux (Aircrack-ng, Hashcat)

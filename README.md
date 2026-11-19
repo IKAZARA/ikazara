@@ -23,7 +23,7 @@ Aplikasi web berbasis **Laravel** untuk pengelolaan data inventaris dan katalog 
 - **Highlight Teknis:** Menerapkan arsitektur MVC, operasi CRUD penuh, komponen antarmuka modular (*Blade Components*), validasi sisi server, serta proteksi keamanan *Mass Assignment*.
 - **Tech:** PHP, Laravel, MySQL, Blade.
 
-#### 2. [VAPEPACK Marketplace — Frontend E-Commerce & Interactive Prototype](https://github.com/IKAZARA/vapepack-marketplace)
+#### 2. [VAPEPACK Marketplace — Frontend E-Commerce & Interactive Prototype](https://github.com/IKAZARA/vapepack_marketplace)
 Antarmuka web e-commerce modern untuk katalog perangkat vape, e-liquid, dan aksesoris dengan alur transaksi lengkap.
 - **Highlight Teknis:** Mengonversi desain dan alur prototipe UI/UX menjadi aplikasi SPA interaktif dengan fitur filter produk multi-kategori, rentang harga, simulasi keranjang belanja, serta alur registrasi dan verifikasi OTP.
 - **Tech:** React, TypeScript, Vite, Tailwind CSS, Figma.

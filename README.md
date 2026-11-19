@@ -15,7 +15,7 @@ Saat ini sedang mencari kesempatan **Magang (Internship)** di bidang *Backend De
 
 ---
 
-### 🚀 Proyek Unggulan
+### Proyek Unggulan
 
 #### 1. [Vapepack — Sistem Manajemen Katalog & Inventaris](https://github.com/IKAZARA/vapepack)
 Aplikasi web berbasis **Laravel** untuk pengelolaan data inventaris dan katalog produk.
